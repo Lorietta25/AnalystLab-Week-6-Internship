@@ -69,4 +69,4 @@ To evaluate price actions without rolling trend smoothing indicators, the raw ch
 
 ## 💡 Strategic Portfolio Recommendations
 1. **Moving Average Entries:** Treat structural price pullbacks dropping down toward the trailing 30-Day Moving Average (`MA_30`) as institutional-grade, low-risk entry vectors for long-term expansion.
-2. **Crossover Execution:** Utilize programmatic `MA_7` and `MA_30` crossovers as systematic mechanical accumulation triggers during major trend turnarounds.unds.
+2. **Crossover Execution:** Utilize programmatic `MA_7` and `MA_30` crossovers as systematic mechanical accumulation triggers during major trend turnarounds.
