@@ -16,14 +16,12 @@ This project delivers an institutional-grade time-series analytical framework ev
 ## 📈 Visual Trend Analysis & Moving Averages
 Below is the generated visualization showcasing Apple's closing price against engineered short-term (`MA_7`) and medium-term (`MA_30`) rolling momentum indicators:
 
-![Apple Inc. (AAPL) Moving Average & Trend Analysis](<img width="1005" height="547" alt="apple4" src="https://github.com/user-attachments/assets/ef888700-f465-4cec-88a4-821ea59620c4" />
-)
+![Apple Inc. (AAPL) Moving Average & Trend Analysis](chart1.png)
 
 ### Baseline Historical Close Track
 To evaluate price actions without rolling trend smoothing indicators, the raw chronological closing price profile develops across the same time span as follows:
 
-![Apple Stock Closing Price Trend](<img width="1005" height="547" alt="apple1" src="https://github.com/user-attachments/assets/e2101202-c645-425f-aadb-c31fa13949bb" />
-)
+![Apple Stock Closing Price Trend](chart2.png)
 
 ---
 
@@ -46,15 +44,13 @@ To evaluate price actions without rolling trend smoothing indicators, the raw ch
 ### Macro Volatility & Liquidity Nodes
 * **Peak Institutional Liquidity:** Identified a major institutional positioning node in July 2021, featuring an absolute volume peak of 1,919,035,000 shares traded. 
 
-![Monthly Trading Volume](<img width="1010" height="547" alt="apple2" src="https://github.com/user-attachments/assets/236043c8-154c-4cf8-ac07-0c18bea7aa7f" />
-)
+![Monthly Trading Volume](chart3.png)
 
 ### Annual Growth Vector
 * **The $250 Barrier Breakout:** On December 17, 2024, the asset officially established sustainable institutional valuation above the $250 psychological boundary with a confirmed closing price of $251.87. 
 * **Yearly Progressions:** Step-by-step annual averages indicate substantial value additions accelerating directly through the 2024–2026 trading cycles.
 
-![Yearly Average Closing Price](<img width="695" height="470" alt="apple5" src="https://github.com/user-attachments/assets/e412c9fd-4a68-442e-85bb-0c480102baee" />
-)
+![Yearly Average Closing Price](chart4.png)
 
 ### Extreme Boundaries & Return Matrices
 * **Historical Spread Limits:** The absolute variance spanning the lowest historical floor price recorded against the raw ceiling high points establishes a steep investment horizon.
@@ -62,15 +58,12 @@ To evaluate price actions without rolling trend smoothing indicators, the raw ch
 
 | Highest vs Lowest Closing Price | Average Monthly Returns |
 | --- | --- |
-| ![Highest vs Lowest Closing Price](<img width="540" height="451" alt="apple6" src="https://github.com/user-attachments/assets/9edaff3e-3d80-4a50-8b1f-4ed41fd41c35" />
-) | ![Average Monthly Returns](<img width="1030" height="547" alt="apple3" src="https://github.com/user-attachments/assets/367e47d5-f698-4c4d-8172-c1a1aaf46995" />
-) |
+| ![Highest vs Lowest Closing Price](chart5.png) | ![Average Monthly Returns](chart6.png) |
 
 ### Statistical Return Distribution
 * **Statistical Bias:** Analysis of daily returns proved that the asset conforms strictly to a standard Gaussian distribution with a positive skewness, mathematically proving an inherent long-term upward bias.
 
-![Distribution of Daily Returns](<img width="850" height="547" alt="apple7" src="https://github.com/user-attachments/assets/a60b7340-c4b6-40d7-a258-dc42665b77d0" />
-)
+![Distribution of Daily Returns](chart7.png)
 
 ---
 
