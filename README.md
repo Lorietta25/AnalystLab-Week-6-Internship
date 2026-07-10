@@ -16,12 +16,12 @@ This project delivers an institutional-grade time-series analytical framework ev
 ## 📈 Visual Trend Analysis & Moving Averages
 Below is the generated visualization showcasing Apple's closing price against engineered short-term (`MA_7`) and medium-term (`MA_30`) rolling momentum indicators:
 
-![Apple Inc. (AAPL) Moving Average & Trend Analysis](chart1.png)
+![Apple Inc. (AAPL) Moving Average & Trend Analysis](Chart1.png)
 
 ### Baseline Historical Close Track
 To evaluate price actions without rolling trend smoothing indicators, the raw chronological closing price profile develops across the same time span as follows:
 
-![Apple Stock Closing Price Trend](chart2.png)
+![Apple Stock Closing Price Trend](Chart2.png)
 
 ---
 
@@ -44,13 +44,13 @@ To evaluate price actions without rolling trend smoothing indicators, the raw ch
 ### Macro Volatility & Liquidity Nodes
 * **Peak Institutional Liquidity:** Identified a major institutional positioning node in July 2021, featuring an absolute volume peak of 1,919,035,000 shares traded. 
 
-![Monthly Trading Volume](chart3.png)
+![Monthly Trading Volume](Chart3.png)
 
 ### Annual Growth Vector
 * **The $250 Barrier Breakout:** On December 17, 2024, the asset officially established sustainable institutional valuation above the $250 psychological boundary with a confirmed closing price of $251.87. 
 * **Yearly Progressions:** Step-by-step annual averages indicate substantial value additions accelerating directly through the 2024–2026 trading cycles.
 
-![Yearly Average Closing Price](chart4.png)
+![Yearly Average Closing Price](Chart4.png)
 
 ### Extreme Boundaries & Return Matrices
 * **Historical Spread Limits:** The absolute variance spanning the lowest historical floor price recorded against the raw ceiling high points establishes a steep investment horizon.
@@ -58,15 +58,15 @@ To evaluate price actions without rolling trend smoothing indicators, the raw ch
 
 | Highest vs Lowest Closing Price | Average Monthly Returns |
 | --- | --- |
-| ![Highest vs Lowest Closing Price](chart5.png) | ![Average Monthly Returns](chart6.png) |
+| ![Highest vs Lowest Closing Price](Chart5.png) | ![Average Monthly Returns](Chart6.png) |
 
 ### Statistical Return Distribution
 * **Statistical Bias:** Analysis of daily returns proved that the asset conforms strictly to a standard Gaussian distribution with a positive skewness, mathematically proving an inherent long-term upward bias.
 
-![Distribution of Daily Returns](chart7.png)
+![Distribution of Daily Returns](Chart7.png)
 
 ---
 
 ## 💡 Strategic Portfolio Recommendations
 1. **Moving Average Entries:** Treat structural price pullbacks dropping down toward the trailing 30-Day Moving Average (`MA_30`) as institutional-grade, low-risk entry vectors for long-term expansion.
-2. **Crossover Execution:** Utilize programmatic `MA_7` and `MA_30` crossovers as systematic mechanical accumulation triggers during major trend turnarounds.
+2. **Crossover Execution:** Utilize programmatic `MA_7` and `MA_30` crossovers as systematic mechanical accumulation triggers during major trend turnarounds.unds.
