@@ -1,10 +1,10 @@
 # Advanced Time-Series & Financial Performance Analysis of Apple Inc. (AAPL)
 
-**Lead Data Analyst:** Nwafor Chinaza  
+**Data Analyst:** Nwafor Chinaza  
 **Program Track:** Advanced Python for Data Analysis (Week 6)  
 **Institution:** AnalystLab Africa  
-**Reporting Period:** June 2021 – Mid-2026  
-**Data Scope:** 1,256 Continuous Trading Days  
+  
+
 
 ---
 
